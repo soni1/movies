@@ -1,0 +1,28 @@
+.header {
+    width: 100%;
+    height: auto;
+    background: #928e8e;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+  
+  .header-content {
+    max-width: 1280px;
+    min-height: 120px;
+    height: auto;
+    padding: 20px 0px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  
+  .tmdb-logo {
+    width: 80px;
+    margin-top: 15px;
+    float: right;
+  }
+ .header-heading {
+     font-family: Source Sans Pro;
+     font-weight: 500
+ }
